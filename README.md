@@ -1,10 +1,8 @@
 ### Screenshot
+<img width="1433" alt="Screen Shot 2022-11-07 at 6 44 58 PM" src="https://user-images.githubusercontent.com/117466305/200440398-f36ddc4a-25af-43af-b0f5-f3e7752fc4a0.png">
 
-![](./images/image-product-desktop.jpg)
-![](./images/mobile.png)
+<img width="298" alt="Screen Shot 2022-11-07 at 6 46 19 PM" src="https://user-images.githubusercontent.com/117466305/200440440-fb5ce550-0365-479e-96d2-32abee85d8af.png">
 
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
 Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
 
